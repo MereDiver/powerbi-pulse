@@ -1,4 +1,4 @@
-# PULSE 🩺 — Power BI Report Health Checker
+# PULSE 🩺 - Power BI Report Health Checker
 
 **Proof of concept for proactively inspecting Power BI report visuals and surfacing potential failures, blank-data issues, and unusually slow visual exports.**
 
