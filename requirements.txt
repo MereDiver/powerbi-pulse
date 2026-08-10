@@ -1,0 +1,17 @@
+# Direct runtime dependencies. Versions reflect the previously exercised PULSE environment.
+notebook==6.5.7
+powerbiclient==3.1.1
+requests==2.32.3
+pandas==2.1.4
+ipywidgets==8.1.1
+ipython==8.20.0
+nest-asyncio==1.6.0
+openpyxl==3.1.5
+pypac==0.16.5
+python-dotenv==1.0.1
+
+# Classic Notebook compatibility constraints (not application imports).
+jupyter-client==7.4.9
+ipykernel==6.29.5
+traitlets==5.14.3
+

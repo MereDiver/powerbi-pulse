@@ -1,0 +1,38 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.env.enc
+
+# Generated PULSE output
+Results/
+*.xlsx
+*.csv
+!sample_data/
+!sample_data/*.csv
+*.log
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editors, operating systems, and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+__MACOSX/
