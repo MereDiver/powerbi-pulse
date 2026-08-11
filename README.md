@@ -2,7 +2,7 @@
 
 **Proof of concept for proactively inspecting Power BI report visuals and surfacing potential failures, blank-data issues, and unusually slow visual exports.**
 
-Power BI developers can otherwise discover a broken or problematic visual only after a user encounters and reports it. PULSE explores whether report pages and visuals can be inspected programmatically so those signals can be reviewed earlier. It is a local, user-operated proof of concept, not a production enterprise monitoring product.
+Power BI developers can otherwise discover a broken or problematic visual only after a user encounters and reports it. PULSE explores whether report pages and visuals can be inspected programmatically so those signals can be reviewed earlier. It is a local, user-operated proof of concept—not a production enterprise monitoring product.
 
 ## What PULSE does
 
